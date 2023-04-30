@@ -3,7 +3,7 @@ Om Dahale
 • 𝚂𝚑𝚎𝚟𝚐𝚊𝚘𝚗 - 𝙰-𝙽𝚊𝚐𝚊𝚛                
 • 𝙷𝚒𝚗𝚍𝚞 - 𝚂𝚘𝚗𝚊𝚛                
 • #om_d_01                   
-https://omdahale01.github.io/MyWeb/
+https://omd01.github.io/MyWeb/
 
 ### Skills
 
@@ -27,8 +27,8 @@ https://omdahale01.github.io/MyWeb/
 
 ### Badges
 
-<a href="https://github.com/omdahale01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdahale01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/omd01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/omdahale01/styles" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omdahale01&repo=styles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/omd01/styles" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omd01&repo=styles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
