@@ -1,9 +1,10 @@
 # Hi, I'm Om Dahale!                
 • 𝙸𝚝 𝚂𝚝𝚞𝚍𝚎𝚗𝚝                  
 • 𝚂𝚑𝚎𝚟𝚐𝚊𝚘𝚗 - 𝙰-𝙽𝚊𝚐𝚊𝚛                
-• 𝙷𝚒𝚗𝚍𝚞 - 𝚂𝚘𝚗𝚊𝚛                
-• #om_d_01                   
-https://omd01.github.io/
+• #om_d_01          
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://omd01.github.io/)
+
 
 ### Skills
 
