@@ -32,5 +32,5 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/omd01/qratt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&theme=default" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/omd01/qratt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&theme=transparent" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
