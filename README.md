@@ -1,58 +1,67 @@
 <div align="center">
-
-  # om dahale.
-  
-  **it student** · **shevgaon** · **a-nagar**
-  
-  <br/>
-
-  [![Portfolio](https://img.shields.io/badge/visit_portfolio-181717?style=for-the-badge&logo=ko-fi&logoColor=white)](https://omd01.github.io/)
-  
-  <br/>
-  
-  > *shipping code, exploring tech, and building cool stuff.*
-
-  <br/>
-
-  ### the stack
-  
-  <p>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=black" alt="C" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" alt="C++" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=black" alt="PHP" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="Java" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=black" alt="CSS3" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=black" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="MySQL" />
-    <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white&color=black" alt="Oracle" />
+  <br />
+  <h1 style="font-weight: 700; letter-spacing: -1px; margin-bottom: 0;">om dahale.</h1>
+  <p style="color: #666; font-family: sans-serif; font-size: 14px;">
+    architecting systems · executing vision · scaling ventures
   </p>
+  <br />
 
-  <br/>
-
-  ### vibes & stats
-  
-  <a href="https://github.com/omd01">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&layout=compact&langs_count=8&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" alt="Top Languages" />
+  <a href="https://omd01.github.io/">
+    <img src="https://img.shields.io/badge/view_portfolio-000000?style=for-the-badge&logo=arrow-right&logoColor=white" alt="Portfolio" height="28" />
   </a>
-  
-  <br/>
-  
-  <a href="https://github.com/omd01">
-  <img src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000&hide_border=true" alt="Stats" />
-  </a>
-
-  <br/>
-
-  ### connect
-  
-  <p>
-    <a href="https://discord.com/users/om_d_01" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-    <a href="https://www.github.com/omdahale01" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="http://www.instagram.com/om_d_01" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.facebook.com/100042153621275" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://www.youtube.com/c/UCou71OI-z2NCwROCj6XlZ8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  </p>
-
+  <br /><br />
 </div>
+
+<div align="center" style="font-family: sans-serif;">
+  <p>
+    <i>"code is easy. architecture is hard. people are harder."</i>
+  </p>
+  <p width="60%">
+    i bridge the gap between raw code and business roi. currently building the digital infrastructure for global trade at <b>primelink</b>.
+  </p>
+</div>
+
+<br />
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>// the tech</b></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Cloud-black?style=flat-square&logo=amazonaws&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><b>// the mind</b></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/System_Design-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Product_Strategy-black?style=flat-square" />
+        <br/>
+        <img src="https://img.shields.io/badge/Team_Leadership-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agile_Ops-black?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=666&icon_color=000" height="130" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=666&langs_count=6" height="130" alt="languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/omd01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>github</b></a> · 
+  <a href="https://discord.com/users/om_d_01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>discord</b></a> · 
+  <a href="http://www.instagram.com/om_d_01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>instagram</b></a>
+</div>
+<br />
