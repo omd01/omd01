@@ -53,13 +53,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=666&icon_color=000" height="130" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=666&langs_count=6" height="130" alt="languages" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://github.com/omd01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>github</b></a> · 
   <a href="https://discord.com/users/om_d_01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>discord</b></a> · 
   <a href="http://www.instagram.com/om_d_01" style="text-decoration: none; margin: 0 10px; color: #000;"><b>instagram</b></a>
