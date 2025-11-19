@@ -1,36 +1,58 @@
-# Hi, I'm Om Dahale!                
-• 𝙸𝚝 𝚂𝚝𝚞𝚍𝚎𝚗𝚝                  
-• 𝚂𝚑𝚎𝚟𝚐𝚊𝚘𝚗 - 𝙰-𝙽𝚊𝚐𝚊𝚛                
-• #om_d_01          
+<div align="center">
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://omd01.github.io/)
+  # om dahale.
+  
+  **it student** · **shevgaon** · **a-nagar**
+  
+  <br/>
 
+  [![Portfolio](https://img.shields.io/badge/visit_portfolio-181717?style=for-the-badge&logo=ko-fi&logoColor=white)](https://omd01.github.io/)
+  
+  <br/>
+  
+  > *shipping code, exploring tech, and building cool stuff.*
 
-### Skills
+  <br/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-</p>
+  ### the stack
+  
+  <p>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=black" alt="C" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" alt="C++" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=black" alt="PHP" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="Java" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=black" alt="CSS3" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=black" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="MySQL" />
+    <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white&color=black" alt="Oracle" />
+  </p>
 
+  <br/>
 
-### Socials
+  ### vibes & stats
+  
+  <a href="https://github.com/omd01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&layout=compact&langs_count=8&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000&hide_border=true&locale=en" alt="Top Languages" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/omd01">
+  <img src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000&hide_border=true" alt="Stats" />
+  </a>
 
-<p align="left"> <a href="https://discord.com/users/om_d_01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/100042153621275" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/omdahale01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/om_d_01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCou71OI-z2NCwROCj6XlZ8g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+  <br/>
 
-### Badges
+  ### connect
+  
+  <p>
+    <a href="https://discord.com/users/om_d_01" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://www.github.com/omdahale01" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="http://www.instagram.com/om_d_01" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/100042153621275" target="_blank"><img src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+    <a href="https://www.youtube.com/c/UCou71OI-z2NCwROCj6XlZ8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  </p>
 
-<a href="https://github.com/omd01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omd01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/omd01/qratt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=omd01&show_icons=true&theme=transparent" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
+</div>
